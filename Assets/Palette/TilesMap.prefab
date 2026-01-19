@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7020462841749447256}
   - component: {fileID: 7329605873848033747}
   m_Layer: 0
-  m_Name: Structure
+  m_Name: TilesMap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1585,7 +1585,7 @@ TilemapRenderer:
   m_Mode: 0
   m_DetectChunkCullingBounds: 0
   m_MaskInteraction: 0
---- !u!114 &4822261660843548722
+--- !u!114 &3126100725194782384
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
